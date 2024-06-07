@@ -19,7 +19,6 @@
             <img src="https://github.com/duchuyvo0368/website-ban-sach/blob/master/demo/9.png" alt="Mô tả hình ảnh">
             <img src="https://github.com/duchuyvo0368/website-ban-sach/blob/master/demo/10.png" alt="Mô tả hình ảnh">
             <img src="https://github.com/duchuyvo0368/website-ban-sach/blob/master/demo/11.png" alt="Mô tả hình ảnh">
-            <img src="https://github.com/duchuyvo0368/website-ban-sach/blob/master/demo/12.png" alt="Mô tả hình ảnh">
         </div>
     </div>
 </body>
